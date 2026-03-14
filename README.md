@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
