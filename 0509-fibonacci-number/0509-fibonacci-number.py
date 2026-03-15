@@ -4,11 +4,5 @@ class Solution:
             return n
         if(n==2):
             return 1
-        f=1
-        s=1
-        while(n>=3):
-            r=f+s
-            f=s
-            s=r
-            n-=1
-        return r
+        else:
+            return self.fib(n-1)+self.fib(n-2)
