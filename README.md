@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
