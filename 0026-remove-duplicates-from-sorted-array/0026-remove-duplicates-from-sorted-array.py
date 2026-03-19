@@ -11,6 +11,4 @@ class Solution:
                 i+=1
                 j+=1
         k=len(nums)
-        for i in range(count):
-            nums.append(0)
         return k
