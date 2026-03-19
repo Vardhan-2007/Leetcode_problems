@@ -6,5 +6,4 @@ class Solution:
                 nums.remove(nums[i])
             else:
                 i+=1
-        k=len(nums)
-        return k
+        return len(nums)
