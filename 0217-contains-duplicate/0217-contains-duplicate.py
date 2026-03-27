@@ -3,5 +3,4 @@ class Solution:
         nums1=set(nums)
         if len(nums)==len(nums1):
             return False
-        else:
-            return True
+        return True
