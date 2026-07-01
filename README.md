@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0283-move-zeroes) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
