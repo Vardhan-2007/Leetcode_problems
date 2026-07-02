@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0067-add-binary) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
