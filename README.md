@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -181,4 +184,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
