@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
+| [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
