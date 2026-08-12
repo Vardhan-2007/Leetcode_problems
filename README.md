@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
 ## String
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -204,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
