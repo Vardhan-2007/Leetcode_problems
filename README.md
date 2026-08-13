@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
