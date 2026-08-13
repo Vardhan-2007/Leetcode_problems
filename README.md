@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Math
 |  |
 | ------- |
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
