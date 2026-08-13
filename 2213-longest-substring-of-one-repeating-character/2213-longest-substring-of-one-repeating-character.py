@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def longestRepeating(
         self,
@@ -8,55 +11,47 @@ class Solution:
 
         n = len(s)
 
-        # Each segment tree node stores:
-        # [left_character, right_character, prefix_length,
-        #  suffix_length, best_length, total_length]
+        # Each node:
+        # [left_char, right_char, prefix, suffix, best, length]
         tree = [None] * (4 * n)
 
-        def merge(left, right):
-            if left is None:
-                return right
-            if right is None:
-                return left
+        def merge(a, b):
+            if a is None:
+                return b
+            if b is None:
+                return a
 
-            left_char, left_right_char, left_pre, left_suf, left_best, left_len = left
-            right_char, right_right_char, right_pre, right_suf, right_best, right_len = right
+            lc1, rc1, pre1, suf1, best1, len1 = a
+            lc2, rc2, pre2, suf2, best2, len2 = b
 
-            # Character at the extreme ends
-            new_left_char = left_char
-            new_right_char = right_right_char
+            same = rc1 == lc2
 
-            # Prefix
-            new_pre = left_pre
+            prefix = pre1
+            if pre1 == len1 and same:
+                prefix += pre2
 
-            if left_pre == left_len and left_right_char == right_char:
-                new_pre = left_len + right_pre
+            suffix = suf2
+            if suf2 == len2 and same:
+                suffix += suf1
 
-            # Suffix
-            new_suf = right_suf
+            best = max(best1, best2)
 
-            if right_suf == right_len and left_right_char == right_char:
-                new_suf = right_len + left_suf
-
-            # Best repeating substring
-            new_best = max(left_best, right_best)
-
-            # A repeating substring can cross the boundary
-            if left_right_char == right_char:
-                new_best = max(new_best, left_suf + right_pre)
+            if same:
+                best = max(best, suf1 + pre2)
 
             return (
-                new_left_char,
-                new_right_char,
-                new_pre,
-                new_suf,
-                new_best,
-                left_len + right_len
+                lc1,
+                rc2,
+                prefix,
+                suffix,
+                best,
+                len1 + len2
             )
 
         def build(node, l, r):
             if l == r:
-                tree[node] = (s[l], s[l], 1, 1, 1, 1)
+                ch = s[l]
+                tree[node] = (ch, ch, 1, 1, 1, 1)
                 return
 
             mid = (l + r) // 2
@@ -66,31 +61,26 @@ class Solution:
 
             tree[node] = merge(tree[node * 2], tree[node * 2 + 1])
 
-        def update(node, l, r, index, char):
+        def update(node, l, r, idx, ch):
             if l == r:
-                tree[node] = (char, char, 1, 1, 1, 1)
+                tree[node] = (ch, ch, 1, 1, 1, 1)
                 return
 
             mid = (l + r) // 2
 
-            if index <= mid:
-                update(node * 2, l, mid, index, char)
+            if idx <= mid:
+                update(node * 2, l, mid, idx, ch)
             else:
-                update(node * 2 + 1, mid + 1, r, index, char)
+                update(node * 2 + 1, mid + 1, r, idx, ch)
 
             tree[node] = merge(tree[node * 2], tree[node * 2 + 1])
 
         build(1, 0, n - 1)
 
-        answer = []
+        ans = []
 
-        for i in range(len(queryIndices)):
-            index = queryIndices[i]
-            char = queryCharacters[i]
+        for idx, ch in zip(queryIndices, queryCharacters):
+            update(1, 0, n - 1, idx, ch)
+            ans.append(tree[1][4])
 
-            update(1, 0, n - 1, index, char)
-
-            # Root contains information about the entire string
-            answer.append(tree[1][4])
-
-        return answer
+        return ans
