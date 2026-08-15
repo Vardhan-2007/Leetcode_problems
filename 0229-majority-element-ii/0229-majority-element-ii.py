@@ -4,7 +4,8 @@ class Solution:
         for n in nums:
             count[n]=1+count.get(n,0)
         res=[]
+        appear=len(nums)/3
         for n in count:
-            if count[n]>(len(nums)/3):
+            if count[n]>(appear):
                 res.append(n)
         return res
