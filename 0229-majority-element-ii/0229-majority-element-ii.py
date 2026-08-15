@@ -3,8 +3,8 @@ class Solution:
         count=defaultdict(list)
         for n in nums:
             count[n]=1+count.get(n,0)
-        res,times=[],len(nums)/3
+        res=[]
         for n in count:
-            if count[n]>(times):
+            if count[n]>(len(nums)/3):
                 res.append(n)
         return res
