@@ -7,4 +7,4 @@ class Solution:
                 return skipL == skipL[::-1] or skipR == skipR[::-1]
             l+=1
             r-=1
-        return s == s[::-1]
+        return True
