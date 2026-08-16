@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Math
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
