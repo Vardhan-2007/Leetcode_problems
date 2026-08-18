@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Vardhan-2007/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
